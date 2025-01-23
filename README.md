@@ -1,3 +1,4 @@
 # frogger_game
 
-//Select master_frog branch
+//This is a Frogger game. It is written in the Rust programming language.
+//pls select master_frog branch
